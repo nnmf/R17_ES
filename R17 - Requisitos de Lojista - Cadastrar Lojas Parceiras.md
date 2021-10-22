@@ -118,24 +118,25 @@ O lojista tem que disponibilizar de internet e CNPJ.
 
 **Prototipação**
 
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/01.png" width="200" alt="01"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/02.png" width="200" alt="02"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/03.png" width="200" alt="03"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/04.png" width="200" alt="04"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/05.png" width="200" alt="05"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/06.png" width="200" alt="06"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/07.png" width="200" alt="07"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/08.png" width="200" alt="08"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/09.png" width="200" alt="09"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/10.png" width="200" alt="10"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/11.png" width="200" alt="11"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/12.png" width="200" alt="12"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/13.png" width="200" alt="13"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/14.png" width="200" alt="14"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/15.png" width="200" alt="16"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/17.png" width="200" alt="17"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/18.png" width="200" alt="18"/>
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/19.png" width="200" alt="19"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/01.png" width="200" alt="01" title="01"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/02.png" width="200" alt="02" title="02"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/03.png" width="200" alt="03" title="03"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/04.png" width="200" alt="04" title="04"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/05.png" width="200" alt="05" title="05"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/06.png" width="200" alt="06" title="06"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/07.png" width="200" alt="07" title="07"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/08.png" width="200" alt="08" title="08"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/09.png" width="200" alt="09" title="09"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/10.png" width="200" alt="10" title="10"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/11.png" width="200" alt="11" title="11"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/12.png" width="200" alt="12" title="12"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/13.png" width="200" alt="13" title="13"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/14.png" width="200" alt="14" title="14"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/15.png" width="200" alt="15" title="15"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/16.png" width="200" alt="16" title="16"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/17.png" width="200" alt="17" title="17"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/18.png" width="200" alt="18" title="18"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/19.png" width="200" alt="19" title="19"/>
 
 
 **Diagrama**
