@@ -141,4 +141,4 @@ O lojista tem que disponibilizar de internet e CNPJ.
 
 **Diagrama**
 
-<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/ES_Resquisito_do_Lojista.jpeg" width="200" alt="Diagrama caso de uso"/>
+<img src="https://raw.githubusercontent.com/nnmf/R17_ES/master/requisito_lojista_imagens/ES_Resquisito_do_Lojista.jpeg" width="200" alt="Diagrama caso de uso" title="Diagrama caso de uso"/>
