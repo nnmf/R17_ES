@@ -110,7 +110,7 @@ O lojista tem que disponibilizar de internet e CNPJ.
 | --- | --- | --- |
 | - | - | - |
 
-**User Stories: Buscar Alimentos**
+**User Stories: Cadastrar Lojas Parceiras**
 
 1. Eu como Administrador gostaria de um sistema o qual me facilita aprovar ou recusar um Lojista como potencial parceiro.
 2. Eu como Administrador gostaria de um sistema o qual me permita olhar informações do lojista a fim de termos uma parceria com maior sinergia de acordo com seus dados.
